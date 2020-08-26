@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1590167319 source:c:\users\user\desktop\c projects\project midterm\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<fstream>
+	"structures.h"
+	"save_read_data.h"
+	"user_creation.h"
+	"authentication.h"
+	"admin_user_functions.h"
+	"panel_controls.h"
+
+1590170172 c:\users\user\desktop\c projects\project midterm\save_read_data.h
+
+1590170208 c:\users\user\desktop\c projects\project midterm\structures.h
+
+1590170269 c:\users\user\desktop\c projects\project midterm\user_creation.h
+
+1590170909 c:\users\user\desktop\c projects\project midterm\authentication.h
+
+1590170953 c:\users\user\desktop\c projects\project midterm\admin_user_functions.h
+
+1590171134 c:\users\user\desktop\c projects\project midterm\panel_controls.h
+
+1590608360 source:c:\users\user\desktop\project with headers files and clenear code\main.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	<fstream>
+	"structures.h"
+	"save_read_data.h"
+	"user_creation.h"
+	"authentication.h"
+	"admin_user_functions.h"
+	"panel_controls.h"
+
+1590603247 c:\users\user\desktop\project with headers files and clenear code\structures.h
+
+1590171271 c:\users\user\desktop\project with headers files and clenear code\save_read_data.h
+
+1590170269 c:\users\user\desktop\project with headers files and clenear code\user_creation.h
+
+1590609260 c:\users\user\desktop\project with headers files and clenear code\authentication.h
+
+1590609127 c:\users\user\desktop\project with headers files and clenear code\admin_user_functions.h
+
+1590603767 c:\users\user\desktop\project with headers files and clenear code\panel_controls.h
+

@@ -1,0 +1,364 @@
+3
+1
+What is the perimeter of a square?
+a*a
+a*4
+2
+0
+2
+The minimum sides a polygon can have is:
+3
+4
+1
+0
+3
+The function y=2-x is:
+A parabola
+A straight line
+2
+0
+4
+2(2-1)>=2*2
+True
+False
+2
+0
+5
+Every system of equations has a finite number of solutions.
+True
+False
+1
+0
+6
+2x+3=5
+x=10
+x=1
+2
+0
+7
+What is the meaning of life?
+____
+....
+1
+0
+8
+180 degrees in radian is:
+Pi
+2*Pi
+1
+0
+9
+A equation of the second degree can have 3 solutions.
+True
+False
+2
+0
+10
+5x-3=2
+x=0
+x=1
+2
+0
+11
+An intiger is a rational number.
+True
+False
+1
+0
+12
+How many diagonals does a square have?
+3
+2
+2
+0
+13
+-x-1=221
+x=-222
+x=-220
+1
+0
+14
+x/2=15
+7.5
+30
+2
+0
+15
+x^0=
+0
+1
+2
+0
+16
+Area of a cube is:
+6*a*a
+a*a*a
+1
+0
+17
+How many real solutions does x^2+1=0 have?
+0
+1
+1
+0
+18
+x-5=2x
+x=-5
+x=5
+1
+0
+19
+2(4/2)>=2*2
+True
+False
+1
+0
+20
+Do you like my app?
+Yes
+No
+1
+0
+9 10 2020
+21
+What is g?
+Pi*Pi
+9.81
+2
+0
+22
+Your weight isn't always the same with the gravitational force.
+True
+False
+1
+0
+23
+Resistance in a curcuit is related with the voltage.
+True
+False
+2
+0
+24
+Nicola Tesla should be mentioned more in Physics books about his findings. 
+No
+If you choose "No", you have never read enought about Tesla.
+2
+0
+25
+What doesn't change or transfer in an isolated system?
+Mass and energy
+Only energy
+1
+0
+26
+During an isobaric process, the preassure doesn't change.
+True
+False
+1
+0
+27
+What is Torque?
+A vector
+A scalar
+1
+0
+28
+Can a 100% efficent machine ever be created?
+Yes
+No
+2
+0
+29
+The earth is flat.
+True
+False
+2
+0
+30
+How many types of radiation are there?
+2
+3
+2
+0
+31
+Only metals can be conductors.
+True
+False
+2
+0
+32
+Metals are conductors due to their free electrons in their structure.
+True
+False
+1
+0
+33
+Complex numbers can be used to solve real-life problems in Physics.
+True
+False
+1
+0
+34
+In a perfect gas,if you increase its temperature then its preassure will increase too.
+True
+False
+1
+0
+35
+During free-fall,will the speed increase infinitely?
+Yes
+No
+2
+0
+36
+Can there be a battery with no resistance?
+Yes
+No
+2
+0
+37
+Electromagnetic Waves are classified in _ groups.
+3
+7
+2
+0
+38
+Force and velocity can be negative and have meaning.
+True
+False
+1
+0
+39
+Mechanical energy is constant,dispite the system.
+True 
+False
+2
+0
+40
+Do you like my app?
+Yes
+Of course
+1
+0
+9 10 2020
+41
+Variables should always be initialized in C++.
+True
+False
+2
+0
+42
+Binary search can be used in every list of elements,without any initial conditions.
+True
+False
+2
+0
+43
+Python is OOP language.
+True
+False
+1
+0
+44
+Java is older than Python.
+True
+False
+2
+0
+45
+Python is written in C.(and technically if I did this project in Python, I could say that I am using a older version of C++ and it would be a problem)
+True
+False
+1
+0
+46
+Every function should be written and compiled before main function in C++.
+True
+False
+2
+0
+47
+The highest paying jobs in US for programmers are not on Python.
+True
+False
+1
+0
+48
+C and C++ are mostly used in operating systems and in game engines.
+True
+False
+1
+0
+49
+C has classes.
+True
+False
+2
+0
+50
+Every variable in C++ should have a name and a type.
+True
+False
+1
+0
+51
+Python is for people that aren't strong enough to use C++ or Java.
+True
+Come on it is true just admit it.
+2
+0
+52
+You can create your own libraries in C and C++.
+True
+False
+1
+0
+53
+You can't learn programming if you aren't exellent in math.
+True
+False
+2
+0
+54
+There exist a sorting algorithm fitting for each problem.
+Yes
+No, you should always count on quick sorting.
+1
+0
+55
+Global variables can be accessed by every function in the program.
+True
+False
+1
+0
+56
+Global variables can't be changed by functions in the program.
+True
+False
+2
+0
+57
+In an interwiew about a job that involves programming, the most important things are your previous projects and your understanding of algorithms.
+True
+False
+1
+0
+58
+Javascript was inspired by Java.
+True
+False
+1
+0
+59
+Loops should always have a condition.
+True
+False
+1
+0
+60
+Do you like my app?
+Yes
+No
+1
+0
+9 10 2020
